@@ -24,8 +24,7 @@ nav:
         - File Formats: 
           - PAC: tools/hedgehog-engine-2/wars/files/pac.md
     - Phantasy Star Universe/Portable series:
-        - Common:
-            - General: tools/phantasy-star-universe-and-portable-series/common/general.md
+        - Common: tools/phantasy-star-universe-and-portable-series/common/general.md
     - Renderware:
       - Common: 
         - File Formats:
