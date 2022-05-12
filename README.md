@@ -5,7 +5,7 @@
     PhantasyStarDocs
 </h1>
 
-GitHub Page with tools and guides for modding Sonic games, powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+GitHub Page with tools and guides for modding Phantasy Star games, powered by [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 
 # Adding New Pages
 Page layout is defined in `mkdocs.yml`. There you can add new pages and sections to PhantasyStarDocs, by pointing the pages to a markdown file. 
