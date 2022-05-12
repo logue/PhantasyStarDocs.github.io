@@ -1,7 +1,7 @@
-site_name: HedgeDocs
-site_url: https://hedgedocs.github.io/
-github_repo: https://github.com/hedgedocs/hedgedocs.github.io
-site_description: Sonic the Hedgehog modding guides and tools
+site_name: PhantasyStarDocs
+site_url: https://phantasystardocs.github.io/
+github_repo: https://github.com/phantasystardocs/phantasystardocs.github.io
+site_description: Phantasy Star modding guides and tools
 nav:
   - Home: index.md
   - Tools:
@@ -23,6 +23,9 @@ nav:
       - Sonic Forces:
         - File Formats: 
           - PAC: tools/hedgehog-engine-2/wars/files/pac.md
+    - Phantasy Star Universe/Portable series:
+        - Common:
+            - General: tools/phantasy-star-universe-and-portable-series/common/general.md
     - Renderware:
       - Common: 
         - File Formats:
