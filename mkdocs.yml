@@ -6,12 +6,15 @@ nav:
   - Home: index.md
   - Tools:
     - tools/index.md
-    
     - Phantasy Star Universe/Portable series:
-        - Common: tools/phantasy-star-universe-and-portable-series/common/general.md
+        - Common: tools/phantasy-star-universe-and-portable-series/common/common.md
     - Phantasy Star Zero:
         - Encryption and Archives: tools/phantasy-star-zero/encryption-and-archives/archives.md
         - Graphics Data: tools/phantasy-star-zero/graphics-data/graphics.md
+    - Phantasy Star Online 2 ES and Idola Phantasy Star Saga:
+        - Common: tools/phantasy-star-online-2-es-and-idola-phantasy-star-saga/common/common.md
+    - Phantasy Star Nova:
+        - Common: tools/phantasy-star-nova/common/common.md
   - Guides:
     - guides/index.md
     - Hedgehog Engine:
