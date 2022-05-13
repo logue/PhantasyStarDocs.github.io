@@ -6,37 +6,12 @@ nav:
   - Home: index.md
   - Tools:
     - tools/index.md
-    - Hedgehog Engine:
-      - Common:
-        - File Formats: tools/hedgehog-engine/common/files.md
-        - Lighting/GI: tools/hedgehog-engine/common/lighting.md
-      - Sonic Generations:
-        - File Formats: 
-          - XNCP: tools/hedgehog-engine/blueblur/files/xncp.md
-          - GTE/GTM: tools/hedgehog-engine/blueblur/files/gte.md
-          - AR/ARL: tools/hedgehog-engine/blueblur/files/ar.md
-        - Audio: tools/hedgehog-engine/blueblur/audio.md
-        - Level Editing: tools/hedgehog-engine/blueblur/levels.md
-      - Sonic Lost World:
-        - Level Editing: tools/hedgehog-engine/sonic2013/levels.md
-    - Hedgehog Engine 2:
-      - Sonic Forces:
-        - File Formats: 
-          - PAC: tools/hedgehog-engine-2/wars/files/pac.md
+    
     - Phantasy Star Universe/Portable series:
         - Common: tools/phantasy-star-universe-and-portable-series/common/general.md
-    - Renderware:
-      - Common: 
-        - File Formats:
-          - ONE: tools/renderware/common/files/one.md
-        - Level Editing: tools/renderware/common/levels.md
-    - Other Engines:
-      - Sonic Colors:
-        - File Formats: 
-          - XNCP: tools/others/sonic2010/files/xncp.md
-        - Level Editing: tools/others/sonic2010/levels.md
-      - Sonic The Hedgehog (2006):
-        - File Formats: tools/others/marathon/files.md
+    - Phantasy Star Zero:
+        - Encryption and Archives: tools/phantasy-star-zero/encryption-and-archives/archives.md
+        - Graphics Data: tools/phantasy-star-zero/graphics-data/graphics.md
   - Guides:
     - guides/index.md
     - Hedgehog Engine:
