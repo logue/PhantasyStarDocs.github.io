@@ -17,6 +17,7 @@ nav:
         - Archives: tools/phantasy-star-online-2/archives/archives.md
         - Character Files: tools/phantasy-star-online-2/salon/salon.md
         - Graphics: tools/phantasy-star-online-2/graphics/graphics.md
+        - Spreadsheets: tools/phantasy-star-online-2/spreadsheets/spreadsheets.md
         - Symbol Art: tools/phantasy-star-online-2/symbol-art/sa.md
         - Misc: tools/phantasy-star-online-2/misc/misc.md
     - Phantasy Star Online 2 ES and Idola Phantasy Star Saga:
@@ -40,20 +41,10 @@ nav:
       - Sonic The Hedgehog (2006):
         - Level Editing:
           - Sonic GLvl: guides/others/marathon/levels/glvl.md
-  - Discoveries:
-    - discoveries/index.md
-    - Sonic Unleashed:
-      - PlayStation 3:
-        - Leftover Install Assets: discoveries/swa/ps3/install.md
-    - Sonic Generations:
-      - HUD:
-        - Unused Time Eater Gauge: discoveries/blueblur/hud/blb_gauge.md
-    - Sonic Lost World:
-      - Levels:
-        - Colors Leftovers: discoveries/sonic2013/levels/colors.md
-        - Test Levels: discoveries/sonic2013/levels/test.md
-        - Deleted Levels: discoveries/sonic2013/levels/deleted.md
-        - Original Level Order: discoveries/sonic2013/levels/original-order.md
+  - File Formats:
+    - file-formats/index.md
+    - Phantasy Star Nova:
+        - Formats: file-formats/phantasy-star-nova/formats/formats.md
 markdown_extensions:
   - abbr
   - admonition
