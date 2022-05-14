@@ -6,11 +6,20 @@ nav:
   - Home: index.md
   - Tools:
     - tools/index.md
+    - Classic Phantasy Star series:
+        - Common: tools/classic-phantasy-star/common/common.md
     - Phantasy Star Universe/Portable series:
         - Common: tools/phantasy-star-universe-and-portable-series/common/common.md
     - Phantasy Star Zero:
         - Encryption and Archives: tools/phantasy-star-zero/encryption-and-archives/archives.md
         - Graphics Data: tools/phantasy-star-zero/graphics-data/graphics.md
+    - Phantasy Star Online series:
+    - Phantasy Star Online 2/New Genesis:
+        - Archives: tools/phantasy-star-online-2/archives/archives.md
+        - Character Files: tools/phantasy-star-online-2/salon/salon.md
+        - Graphics: tools/phantasy-star-online-2/graphics/graphics.md
+        - Symbol Art: tools/phantasy-star-online-2/symbol-art/sa.md
+        - Misc: tools/phantasy-star-online-2/misc/misc.md
     - Phantasy Star Online 2 ES and Idola Phantasy Star Saga:
         - Common: tools/phantasy-star-online-2-es-and-idola-phantasy-star-saga/common/common.md
     - Phantasy Star Nova:
