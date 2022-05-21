@@ -51,6 +51,8 @@ nav:
             - AWB: file-formats/common-formats/criware/awb.md
             - CPK: file-formats/common-formats/criware/cpk.md
             - HCA: file-formats/common-formats/criware/hca.md
+        - LUA: file-formats/common-formats/lua.md
+        - Sega Formats: file-formats/common-formats/sega-formats.md
     - Phantasy Star Nova:
         - Formats: file-formats/phantasy-star-nova/formats/formats.md
 markdown_extensions:
