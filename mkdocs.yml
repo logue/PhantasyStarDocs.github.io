@@ -43,6 +43,14 @@ nav:
           - Sonic GLvl: guides/others/marathon/levels/glvl.md
   - File Formats:
     - file-formats/index.md
+    - Common Formats:
+        - Criware:
+            - ACB: file-formats/common-formats/criware/acb.md
+            - ADX: file-formats/common-formats/criware/adx.md
+            - AFS: file-formats/common-formats/criware/afs.md
+            - AWB: file-formats/common-formats/criware/awb.md
+            - CPK: file-formats/common-formats/criware/cpk.md
+            - HCA: file-formats/common-formats/criware/hca.md
     - Phantasy Star Nova:
         - Formats: file-formats/phantasy-star-nova/formats/formats.md
 markdown_extensions:
