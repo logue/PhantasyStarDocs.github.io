@@ -54,7 +54,9 @@ nav:
         - LUA: file-formats/common-formats/lua.md
         - Sega Formats: file-formats/common-formats/sega-formats.md
     - Phantasy Star Nova:
-        - Formats: file-formats/phantasy-star-nova/formats/formats.md
+        - Formats:
+            - AXS/AAI/AIF: file-formats/phantasy-star-nova/formats/axs-aai-aif.md
+            - Misc: file-formats/phantasy-star-nova/formats/misc.md
 markdown_extensions:
   - abbr
   - admonition
