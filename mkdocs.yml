@@ -1,6 +1,6 @@
 site_name: PhantasyStarDocs
 site_url: https://phantasystardocs.github.io/
-github_repo: https://github.com/phantasystardocs/phantasystardocs.github.io
+# github_repo: https://github.com/phantasystardocs/phantasystardocs.github.io
 site_description: Phantasy Star modding guides and tools
 nav:
   - Home: index.md
@@ -30,9 +30,9 @@ nav:
       - Common:
         - Lighting/GI:
           - Example Guide: guides/hedgehog-engine/common/lighting/example.md
-      - Sonic Generations: 
+      - Sonic Generations:
         - File Formats:
-          - XNCP: 
+          - XNCP:
             - Basics: guides/hedgehog-engine/blueblur/files/xncp/basics.md
             - Animations: guides/hedgehog-engine/blueblur/files/xncp/anims.md
         - Level Editing:
@@ -88,22 +88,23 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
 plugins:
-  - search 
-  - mkdocs-video
-  - git-committers:
-      exclude: 
-        - index.md
-        - tools/*
-        - guides/index.md
-        - discoveries/index.md
-  - git-revision-date-localized:
-      type: timeago
-      exclude:
-        - index.md
-        - tools/*
-        - guides/index.md
-        - discoveries/index.md
+  - search
+  # - mkdocs-video
+  # - git-committers:
+  #    exclude:
+  #      - index.md
+  #      - tools/*
+  #      - guides/index.md
+  #      - discoveries/index.md
+  # - git-revision-date-localized:
+  #    type: timeago
+  #    exclude:
+  #      - index.md
+  #      - tools/*
+  #      - guides/index.md
+  #      - discoveries/index.md
 theme:
+  language: en
   logo: assets/icon.svg
   favicon: assets/favicon.png
   name: material
@@ -130,3 +131,11 @@ theme:
       toggle:
         icon: material/brightness-2
         name: Switch to light mode
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: 日本語
+      link: ja
+      lang: ja
